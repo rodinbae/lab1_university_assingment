@@ -1,0 +1,10 @@
+#Compiled/binarybackups
+*.backup
+
+
+#CSVdataexports(optional—removethislineifyouwanttokeepsampleCSVs)
+*.csv
+
+#Localenvironment/secrets
+*.env
+pgpass.conf
