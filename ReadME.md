@@ -1,28 +1,26 @@
-\#Lab1-ModernDatabaseEnvironment
-
-
-PostgreSQL18labenvironmentbuiltnativelyonWindows(pgAdmin4+DBeaver),
-
-
-coveringdatabase/tablecreation,datainsert/query,andexport/import.
-
-
-\##Files
+\# FIRST ASSINGMENT
 
 
 
-\-lab1\_university.sql-fullSQLscript(schema+sampledata+queries)
-
-\-readme dot md
-
-\-git ignore file
-
-\-an image showing running instance of DBeaver while connected to PostgreSQL inside the Docker.
+\## LAB1\_UNIVERSITY
 
 
-\##How to restore
+
+> This is the repo created solely for the Database Management Systems Class.
 
 
-createdb-Upostgreslab1\_university
-psql-Upostgres-dlab1\_university-flab1\_university.sql
+
+
+
+\# Files Included
+
+
+
+1. lab1\_university.sql
+
+2\. readme.md file
+
+3\. git ignore file
+
+4\. an image showing running instance of DBeaver while connected to PostgreSQL inside the Docker.
 
